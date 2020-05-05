@@ -1,0 +1,93 @@
+
+Hsquid:S1659}"%Declare "zipCode" on a separate line.(ù‡–’øÿÿÿÿ8ÇŸı³.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÍìÅÎ8·ùÇ­.
+Lsquid:S1659}")Declare "phoneNumber" on a separate line.(ù‡–’øÿÿÿÿ8ÇŸı³.
+[
+squid:S106N"9Replace this use of System.out or System.err by a logger.(ƒİß³ıÿÿÿÿ8ÇŸı³.
+usquid:S00117p"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µ­—×üÿÿÿÿ8ÇŸı³.
+[
+squid:S106+"9Replace this use of System.out or System.err by a logger.(Ğ„ûÿÿÿÿ8·ùÇ­.
+V
+squid:S106R"9Replace this use of System.out or System.err by a logger.(Œ¯£ì8¼ö­.
+msquid:S1192R"ODefine a constant instead of duplicating this literal "Wprowadz ulice" 4 times.(Œ¯£ì8Šß¶³.
+[
+squid:S106'"9Replace this use of System.out or System.err by a logger.(ÀÍğÃÿÿÿÿÿ8Ïà´.
+V
+squid:S106o"9Replace this use of System.out or System.err by a logger.(Á©‡8ÇŸı³.
+Bsquid:S1659|"$Declare "street" on a separate line.(Œœº»8ÇŸı³.
+V
+squid:S106b"9Replace this use of System.out or System.err by a logger.(¨†à8ÇŸı³.
+@squid:S1659|""Declare "city" on a separate line.(Œœº»8ÇŸı³.
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(Œ»˜8ÇŸı³.
+W
+squid:S106£"9Replace this use of System.out or System.err by a logger.(¸¬ –8Šß¶³.
+W
+squid:S106°"9Replace this use of System.out or System.err by a logger.(ÃÕù8ÇŸı³.
+@squid:S1659|""Declare "name" on a separate line.(Œœº»8ÇŸı³.
+†squid:S1192V"hDefine a constant instead of duplicating this literal "Wprowadz kod pocztowy [przyklad: 28404]" 4 times.(ÃÕù8ÇŸı³.
+[
+squid:S106n"9Replace this use of System.out or System.err by a logger.(¨’®Œûÿÿÿÿ8ÇŸı³.
+[
+squid:S106~"9Replace this use of System.out or System.err by a logger.(¨·˜şÿÿÿÿ8ÇŸı³.
+[
+squid:S106K"9Replace this use of System.out or System.err by a logger.(ğ‹äşûÿÿÿÿ8ÇŸı³.
+V
+squid:S106V"9Replace this use of System.out or System.err by a logger.(ÃÕù8ÇŸı³.
+\
+squid:S106•"9Replace this use of System.out or System.err by a logger.(ğ‹äşûÿÿÿÿ8ÇŸı³.
+[
+squid:S106G"9Replace this use of System.out or System.err by a logger.(¸ÔíÅùÿÿÿÿ8¼ö­.
+psquid:S00117|"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œœº»8ÇŸı³.
+[
+squid:S106#"9Replace this use of System.out or System.err by a logger.(õÒÓûÿÿÿÿ8Ïà´.
+\"squid:SwitchLastCaseIsDefaultCheck""Add a default case to this switch.(©Øûºûÿÿÿÿ8·ùÇ­.
+W
+squid:S106„"9Replace this use of System.out or System.err by a logger.(Á©‡8ÇŸı³.
+W
+squid:S106¡"9Replace this use of System.out or System.err by a logger.(Œ¯£ì8Šß¶³.
+W
+squid:S106¥"9Replace this use of System.out or System.err by a logger.(ÃÕù8ÇŸı³.
+U
+squid:S106Q"9Replace this use of System.out or System.err by a logger.(¼·¥]8ÇŸı³.
+dsquid:S1192&"FDefine a constant instead of duplicating this literal "mybin" 6 times.(¶³×Ó8Ïà´.
+V
+squid:S106T"9Replace this use of System.out or System.err by a logger.(¸¬ –8¼ö­.
+nsquid:S1192T"PDefine a constant instead of duplicating this literal "Wprowadz miasto" 4 times.(¸¬ –8Šß¶³.
+\
+squid:S106‹"9Replace this use of System.out or System.err by a logger.(¸ÔíÅùÿÿÿÿ8ÇŸı³.
+Isquid:S5411Î"*Use the primitive boolean expression here.(Œ¬–”8Å±¶.
+³%squid:RedundantThrowsDeclarationCheck"vRemove the declaration of thrown exception 'java.net.UnknownHostException', as it cannot be thrown from method's body.(÷Õ€©úÿÿÿÿ8§°¬¶.
+[
+squid:S106."9Replace this use of System.out or System.err by a logger.(±‰Íèøÿÿÿÿ8ƒĞŠ³.
+msquid:S1192%"JDefine a constant instead of duplicating this literal "timetable" 7 times.(¯–şÿÿÿÿ8Ïà´.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(—ó×şÿÿÿÿ8ÇŸı³.
+V
+squid:S106g"9Replace this use of System.out or System.err by a logger.(Ôè8ÇŸı³.
+W
+squid:S106À"9Replace this use of System.out or System.err by a logger.(ÈşŠ8»Û×².
+U
+squid:S106I"9Replace this use of System.out or System.err by a logger.(Œ»˜8¼ö­.
+[
+squid:S106["9Replace this use of System.out or System.err by a logger.(†£Í´øÿÿÿÿ8ÇŸı³.
+V
+squid:S106c"9Replace this use of System.out or System.err by a logger.(Œ¯£ì8¼ö­.
+W
+squid:S106®"9Replace this use of System.out or System.err by a logger.(¸¬ –8Šß¶³.
+W
+squid:S106Â"9Replace this use of System.out or System.err by a logger.(ìÍ¦‡8ÇŸı³.
+=squid:S2676*"Use the original value instead.(†¢Š8ª¯ÿ¯.
+Dsquid:S1659|"&Declare "lastName" on a separate line.(Œœº»8ÇŸı³.
+jsquid:S2095"MUse try-with-resources or close this "AerospikeClient" in a "finally" clause.(Šƒú"8ıÊ•°.
+V
+squid:S1064"9Replace this use of System.out or System.err by a logger.(¤¤¶8Î—å².
+W
+squid:S106¬"9Replace this use of System.out or System.err by a logger.(Œ¯£ì8Šß¶³.
+V
+squid:S106e"9Replace this use of System.out or System.err by a logger.(¸¬ –8¼ö­.
+V
+squid:S106F"9Replace this use of System.out or System.err by a logger.(ªÏ‡¾8ÇŸı³.
+\
+squid:S106›"9Replace this use of System.out or System.err by a logger.(ƒİß³ıÿÿÿÿ8ÇŸı³.

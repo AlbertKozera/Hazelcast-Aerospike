@@ -1,0 +1,80 @@
+
+isquid:S00117t"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œœº»
+U
+squid:S106"9Replace this use of System.out or System.err by a logger.(ğ‹äşûÿÿÿÿ
+nsquid:S00117j"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µ­—×üÿÿÿÿ
+U
+squid:S106ƒ"9Replace this use of System.out or System.err by a logger.(¸ÔíÅùÿÿÿÿ
+O
+squid:S106]"9Replace this use of System.out or System.err by a logger.(Œ¯£ì
+O
+squid:S106ˆ"9Replace this use of System.out or System.err by a logger.(Œ»˜
+P
+squid:S106›"9Replace this use of System.out or System.err by a logger.(¸¬ –
+T
+squid:S106("9Replace this use of System.out or System.err by a logger.(Ğ„ûÿÿÿÿ
+O
+squid:S106a"9Replace this use of System.out or System.err by a logger.(Ôè
+fsquid:S1192L"ODefine a constant instead of duplicating this literal "Wprowadz ulice" 4 times.(Œ¯£ì
+O
+squid:S106\"9Replace this use of System.out or System.err by a logger.(¨†à
+=squid:S1659t"&Declare "lastName" on a separate line.(Œœº»
+9squid:S1659t""Declare "city" on a separate line.(Œœº»
+O
+squid:S106i"9Replace this use of System.out or System.err by a logger.(Á©‡
+U
+squid:S106“"9Replace this use of System.out or System.err by a logger.(ƒİß³ıÿÿÿÿ
+Esquid:S1659u")Declare "phoneNumber" on a separate line.(ù‡–’øÿÿÿÿ
+T
+squid:S106""9Replace this use of System.out or System.err by a logger.(®İÚûÿÿÿÿ
+T
+squid:S106H"9Replace this use of System.out or System.err by a logger.(ƒİß³ıÿÿÿÿ
+T
+squid:S106h"9Replace this use of System.out or System.err by a logger.(¨’®Œûÿÿÿÿ
+N
+squid:S106K"9Replace this use of System.out or System.err by a logger.(¼·¥]
+O
+squid:S106|"9Replace this use of System.out or System.err by a logger.(Á©‡
+squid:S1192P"hDefine a constant instead of duplicating this literal "Wprowadz kod pocztowy [przyklad: 28404]" 4 times.(ÃÕù
+Asquid:S1659u"%Declare "zipCode" on a separate line.(ù‡–’øÿÿÿÿ
+N
+squid:S106C"9Replace this use of System.out or System.err by a logger.(Œ»˜
+P
+squid:S106¦"9Replace this use of System.out or System.err by a logger.(¸¬ –
+gsquid:S1192N"PDefine a constant instead of duplicating this literal "Wprowadz miasto" 4 times.(¸¬ –
+6squid:S2676'"Use the original value instead.(¢²Îˆ
+T
+squid:S106A"9Replace this use of System.out or System.err by a logger.(¸ÔíÅùÿÿÿÿ
+O
+squid:S106P"9Replace this use of System.out or System.err by a logger.(ÃÕù
+9squid:S1659t""Declare "name" on a separate line.(Œœº»
+P
+squid:S106¨"9Replace this use of System.out or System.err by a logger.(ÃÕù
+P
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÃÕù
+P
+squid:S106™"9Replace this use of System.out or System.err by a logger.(Œ¯£ì
+O
+squid:S106N"9Replace this use of System.out or System.err by a logger.(¸¬ –
+O
+squid:S106L"9Replace this use of System.out or System.err by a logger.(Œ¯£ì
+O
+squid:S106@"9Replace this use of System.out or System.err by a logger.(ªÏ‡¾
+O
+squid:S106_"9Replace this use of System.out or System.err by a logger.(¸¬ –
+;squid:S1659t"$Declare "street" on a separate line.(Œœº»
+U"squid:SwitchLastCaseIsDefaultCheck%""Add a default case to this switch.(©Øûºûÿÿÿÿ
+O
+squid:S1061"9Replace this use of System.out or System.err by a logger.(¤¤¶
+T
+squid:S106E"9Replace this use of System.out or System.err by a logger.(ğ‹äşûÿÿÿÿ
+T
+squid:S106+"9Replace this use of System.out or System.err by a logger.(±‰Íèøÿÿÿÿ
+P
+squid:S106¤"9Replace this use of System.out or System.err by a logger.(Œ¯£ì
+T
+squid:S106v"9Replace this use of System.out or System.err by a logger.(¨·˜şÿÿÿÿ
+T
+squid:S106U"9Replace this use of System.out or System.err by a logger.(†£Í´øÿÿÿÿ
+T
+squid:S106w"9Replace this use of System.out or System.err by a logger.(—ó×şÿÿÿÿ

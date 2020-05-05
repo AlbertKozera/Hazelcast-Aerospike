@@ -1,0 +1,38 @@
+
+isquid:S001175"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨†Ğ×
+O
+squid:S106*"9Replace this use of System.out or System.err by a logger.(—•òİ
+O
+squid:S106P"9Replace this use of System.out or System.err by a logger.(ÈşŠ
+U"squid:SwitchLastCaseIsDefaultCheck-""Add a default case to this switch.(©èãÍüÿÿÿÿ
+T
+squid:S106f"9Replace this use of System.out or System.err by a logger.(‚×Çøÿÿÿÿ
+9squid:S16595""Declare "to_s" on a separate line.(¨†Ğ×
+U"squid:SwitchLastCaseIsDefaultCheck#""Add a default case to this switch.(©Øûºûÿÿÿÿ
+T
+squid:S106/"9Replace this use of System.out or System.err by a logger.(õÒÓûÿÿÿÿ
+O
+squid:S106`"9Replace this use of System.out or System.err by a logger.(ìÍ¦‡
+nsquid:S00117V"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µ‰€æşÿÿÿÿ
+7squid:S1659W" Declare "to" on a separate line.(Èâ™¢
+T
+squid:S1066"9Replace this use of System.out or System.err by a logger.(„ëÁÖûÿÿÿÿ
+nsquid:S00117V"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µ‰€æşÿÿÿÿ
+O
+squid:S106R"9Replace this use of System.out or System.err by a logger.(ìÍ¦‡
+O
+squid:S106h"9Replace this use of System.out or System.err by a logger.(ìÍ¦‡
+O
+squid:S106]"9Replace this use of System.out or System.err by a logger.(Çœî›
+O
+squid:S1068"9Replace this use of System.out or System.err by a logger.(Ğèé¯
+g
+squid:S128'"LEnd this switch case with an unconditional break, return or throw statement.(úâúÿÿÿÿ
+<squid:S1068"%Remove this unused "r" private field.(ùŠ‡¡
+O
+squid:S1062"9Replace this use of System.out or System.err by a logger.(Œ„ûÔ
+N
+squid:S106>"9Replace this use of System.out or System.err by a logger.(é«×?
+isquid:S001175"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨†Ğ×
+O
+squid:S106 "9Replace this use of System.out or System.err by a logger.(±’
